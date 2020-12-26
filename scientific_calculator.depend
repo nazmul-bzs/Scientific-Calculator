@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1462641260 source:c:\users\rafi\documents\graphic projects\dig clock\main.cpp
+	"iGraphics.h"
+
+1462108168 c:\users\rafi\documents\graphic projects\dig clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462726367 source:c:\users\rafi\documents\graphic projects\dig clock\abc.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
